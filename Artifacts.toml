@@ -1,0 +1,89 @@
+[[Xorg_xcb_util_renderutil]]
+arch = "armv7l"
+git-tree-sha1 = "986a858fcec755f3b5ee7a37a327defe71ab621d"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xcb_util_renderutil.download]]
+    sha256 = "506c70c657027f43f81ba1a8a1b83375b73420e8e9d597279b632f653dac7314"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_renderutil_jll.jl/releases/download/Xorg_xcb_util_renderutil-v0.3.9+0/Xorg_xcb_util_renderutil.v0.3.9.arm-linux-gnueabihf.tar.gz"
+[[Xorg_xcb_util_renderutil]]
+arch = "x86_64"
+git-tree-sha1 = "97d450db6c73d1af796a6e493912be84965a9c09"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xcb_util_renderutil.download]]
+    sha256 = "4c087535f2054314342d4dec1329f78acbc82d0a1373e0fd0ac2d99956b96aec"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_renderutil_jll.jl/releases/download/Xorg_xcb_util_renderutil-v0.3.9+0/Xorg_xcb_util_renderutil.v0.3.9.x86_64-linux-gnu.tar.gz"
+[[Xorg_xcb_util_renderutil]]
+arch = "aarch64"
+git-tree-sha1 = "259b51131599d14f16d7f24ba3e4b5a710f2e790"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xcb_util_renderutil.download]]
+    sha256 = "229f94df2cf7fd4ac1c497081309345a584cd736f3838da6b6f504bfd4152495"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_renderutil_jll.jl/releases/download/Xorg_xcb_util_renderutil-v0.3.9+0/Xorg_xcb_util_renderutil.v0.3.9.aarch64-linux-gnu.tar.gz"
+[[Xorg_xcb_util_renderutil]]
+arch = "i686"
+git-tree-sha1 = "3696fdd0e3f9aa1e646778d50d7e09b21b4f9300"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_xcb_util_renderutil.download]]
+    sha256 = "2b7d02a9ecfa1b96dcb7ef628eac921db20e5eb3fb43efb808764dbe1bd4948f"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_renderutil_jll.jl/releases/download/Xorg_xcb_util_renderutil-v0.3.9+0/Xorg_xcb_util_renderutil.v0.3.9.i686-linux-musl.tar.gz"
+[[Xorg_xcb_util_renderutil]]
+arch = "aarch64"
+git-tree-sha1 = "24eae3eef196e5a7a285bb19cf1239f8deefeed2"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_xcb_util_renderutil.download]]
+    sha256 = "4dade986f52821aab16e046ca56df402faf0f67f4ba2d8408a1c5b51dd94d894"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_renderutil_jll.jl/releases/download/Xorg_xcb_util_renderutil-v0.3.9+0/Xorg_xcb_util_renderutil.v0.3.9.aarch64-linux-musl.tar.gz"
+[[Xorg_xcb_util_renderutil]]
+arch = "x86_64"
+git-tree-sha1 = "1ecb49699c70f4f6c61a32283af71d4c1f429fac"
+os = "freebsd"
+
+    [[Xorg_xcb_util_renderutil.download]]
+    sha256 = "daafd97c48ad369cedce1f1e86933a9d25a3ef6f4f028c96e19729bacfcf03f9"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_renderutil_jll.jl/releases/download/Xorg_xcb_util_renderutil-v0.3.9+0/Xorg_xcb_util_renderutil.v0.3.9.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_xcb_util_renderutil]]
+arch = "powerpc64le"
+git-tree-sha1 = "6c6e4062c2800ea99e52b9cb3714874c23130ba1"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xcb_util_renderutil.download]]
+    sha256 = "9077101b11fecc116c5698914e94d051475b4f5910081fe29bccbfa2244837a1"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_renderutil_jll.jl/releases/download/Xorg_xcb_util_renderutil-v0.3.9+0/Xorg_xcb_util_renderutil.v0.3.9.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_xcb_util_renderutil]]
+arch = "i686"
+git-tree-sha1 = "b7af84d78ec29058ee791cc32c7833cf80aaf122"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_xcb_util_renderutil.download]]
+    sha256 = "9cb235a342043d567db183775ab928ec1537f656d9d626430ba6ec5cf4f91784"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_renderutil_jll.jl/releases/download/Xorg_xcb_util_renderutil-v0.3.9+0/Xorg_xcb_util_renderutil.v0.3.9.i686-linux-gnu.tar.gz"
+[[Xorg_xcb_util_renderutil]]
+arch = "x86_64"
+git-tree-sha1 = "255366e77dd49c8e85d851db3729590e88240433"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_xcb_util_renderutil.download]]
+    sha256 = "86aaf19f0b0051269df07ea2cf20ea058af33d3972432e86725440fa2af1daff"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_renderutil_jll.jl/releases/download/Xorg_xcb_util_renderutil-v0.3.9+0/Xorg_xcb_util_renderutil.v0.3.9.x86_64-linux-musl.tar.gz"
+[[Xorg_xcb_util_renderutil]]
+arch = "armv7l"
+git-tree-sha1 = "6977613fd423a32797a9126de26d08027acbe320"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_xcb_util_renderutil.download]]
+    sha256 = "de84224d7d3ca65cb9c4419bde878fa66487ca18a65d323a76c7de6949729c3e"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_xcb_util_renderutil_jll.jl/releases/download/Xorg_xcb_util_renderutil-v0.3.9+0/Xorg_xcb_util_renderutil.v0.3.9.arm-linux-musleabihf.tar.gz"
